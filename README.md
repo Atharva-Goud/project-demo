@@ -1,3 +1,3 @@
 # project-demo
 test demo 
-Author-Atharva Goud
+Author-Atharva Srinivas Goud
